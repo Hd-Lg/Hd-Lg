@@ -12,6 +12,8 @@ Maybe I'll dip my toes in Blockchain, seems very interesting and fun. And then c
 <h3> Some Stats </h3>
 
   <img src="https://github-readme-stats.vercel.app/api?username=Hd-Lg&show_icons=true&hide_border=true" />
+  
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hd-Lg&layout=compact" />
 <!--
 **Hd-Lg/Hd-Lg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
