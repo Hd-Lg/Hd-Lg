@@ -25,6 +25,8 @@ Maybe I'll dip my toes in Blockchain, seems very interesting and fun. And then c
 
   <img src="https://github-readme-stats.vercel.app/api?username=Hd-Lg&show_icons=true&hide_border=true" />
   
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hd-Lg&theme=city-lights&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hd-Lg&layout=compact" />
 <!--
 **Hd-Lg/Hd-Lg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
