@@ -47,8 +47,8 @@ I Know I still have a lot to learn, a lot of progress to make. I'll work hard fo
 
 <h2>Contact Me!</h2>
 
-<a href='#' target='_blank'>Mail</a>
-<a href='#' target='_blank'>Hd-Lg.com</a>
+<a href='hire-me@hadrien-lg.com' target='_blank'>hire-me@hadrien-lg.com</a>
+<a href='#' target='_blank'>hadrien-lg.com</a>
 
 
 <h2> Some Stats </h2>
